@@ -16,7 +16,7 @@ if __name__ == '__main__':
 print("Hello, world")
 if (2<3):
     print("TRUE")
-
+зкште
 print(2-2)
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
