@@ -17,4 +17,6 @@ print("Hello, world")
 if (2<3):
     print("TRUE")
 
+print(2-2)
+
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
